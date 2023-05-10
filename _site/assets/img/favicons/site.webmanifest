@@ -1,0 +1,23 @@
+
+
+{
+  "name": "빌리씨 기술기록소",
+  "short_name": "빌리씨 기술기록소",
+  "description": "Github Page를 활용한 기술 블로그입니다. 이것 저것 다 기록할 예정입니다.",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "theme_color": "#2a1e6b",
+  "background_color": "#ffffff",
+  "display": "fullscreen"
+}
+
