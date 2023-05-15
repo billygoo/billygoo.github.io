@@ -27,6 +27,13 @@ tags: [newletter, tech-news]
 [Brex의 Prompt 엔지니어링 가이드](https://github.com/brexhq/prompt-engineering)
 : 지출관리를 하나의 플랫폼에서 제공하는 [Brex](https://www.brex.com/)에서 LLMs에서 사용하는 프롬프트에 대해 어떻게 사용할지에 대해 가이드를 작성해 제공함. 
 
+[당근마켓 검색 엔진, 쿠버네티스로 쉽게 운영하기](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-bdf2688df267)
+: 제목 그대로 당근 마켓에서 검색 인프라를 쿠버네티스로 이관하는 작업을 공유한 글 
+ - AWS에서 ELK 스택을 Terraform을 통해 관리하고 있었음
+ - 각 컴포넌트의 업데이트과정에 수동 배포 및 배포 시간이 길었음
+ - 이를 EKS와 ArgoCD, GithubAction을 이용해 구축 및 배포 자동화 구성함
+ - 글은 이 과정을 진행하면서 수행한 Task들을 시간순으로 정리해 설명
+ 
 
 ## 구독 중인 뉴스레터
 
