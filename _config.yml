@@ -18,12 +18,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 빌리씨 기술기록소 # the main title
+title: 기록해 기억하기 # the main title
 
-tagline: 기술 기록 중심 # it will display as the sub-title
+tagline: 기록하고 기록하고 기록하기 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Github Page를 활용한 기술 블로그입니다. 이것 저것 다 기록할 예정입니다.
+  까먹는 것들을 기록해 나중에 찾아보자. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://billygoo.github.io"
@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/billygoo # change to your github homepage
+    - https://github.com/billygoo/billygoo.github.io # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/billy-goo-533a03b0
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 #img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/profile.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -201,3 +201,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-avatar
