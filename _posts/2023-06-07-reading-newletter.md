@@ -16,7 +16,10 @@ tags: [newletter, tech-news]
 - 2024년 초 $3,499(약 450만원) 가격을 시작으로 출시 예정
 - 컨트롤러가 없이 증강현실에 눈, 손, 음성으로 장치 제어함
   - 12개 카메라와 5개 센서가 있음
-- M2 칩을 활용해 R1이라는 새로운 칩 사용 
+- [M2 칩을 활용하며 추가로 R1이라는 새로운 칩도 사용됨](https://techcrunch.com/2023/06/05/apple-r1-chip-apple-vision-pro/){:target="_blank"}
+  - R1은 VR 멀미를 줄이기 위해 개발됨
+  - R1은 헤드셋에 내장된 모든 센서를 분석해 실시간 3D매핑 및 시선 추적 처리
+  ![APPLE AR Headset Chips](/assets/img/post/20230607/Apple-Vision-Pro-WWDC-21-1.webp){: width="600"}
 - VisionOS라고 새로운 OS로 활용
 - 맥 제품과 통합되어 활용 가능함 
 
@@ -51,6 +54,10 @@ tags: [newletter, tech-news]
   - 한글은 잘 되려나? 
 - "Hey Siri"에서 "Hey" 생량 가능 
 - Facetime에 메시지를 남길수 있음
+
+[구글 생성형AI 학습을 위한 러닝패스 무료로 제공](https://www.cloudskillsboost.google/paths/118)
+: 실습형 학습 도구인 퀵랩을 통해 생성형 AI학습을 위한 교육 과정을 무료로 공개
+
 
 ## 구독 중인 뉴스레터
 - [TL;DR Newletter](https://tldr.tech/)
