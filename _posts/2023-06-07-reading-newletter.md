@@ -36,8 +36,21 @@ tags: [newletter, tech-news]
 
 [일반적인 점악액이 근시 어린이에게 도움을 줄 수 있다](https://newatlas.com/medical/common-eye-drops-hope-nearsighted-kids-atropine){:target="_blank"}
 : 점안액이 동공 확장하는데 도움이 되어 근시 진행을 늦춰줄 수 있음
-  - 취침 시간에 점안액을 사용
-  - 근시 진행이 느려 안경 처방이 늦었고, 부작용 보고 안됨
+- 취침 시간에 점안액을 사용
+- 근시 진행이 느려 안경 처방이 늦었고, 부작용 보고 안됨
+
+
+## 읽어 볼 만한 기사나 블로그
+[iOS17 업데이트 공개](https://www.theverge.com/2023/6/5/23738813/apple-ios-17-features-specs-updates-wwdc-2023){:target="_blank"}
+: 2023 WWDC에서 iOS17 업데이트 공개함
+- 새로운 안전 기능
+- [내장 저널링 앱](https://www.theverge.com/2023/6/5/23738869/apple-journal-app-ios-iphone-wwdc-2023)
+  - 내 활동을 분석해 여러가지 이벤트를 제안하는 기능
+- 나이트스탠드 모드 : `StandBy`
+- 자동 수정 기능 향상 
+  - 한글은 잘 되려나? 
+- "Hey Siri"에서 "Hey" 생량 가능 
+- Facetime에 메시지를 남길수 있음
 
 ## 구독 중인 뉴스레터
 - [TL;DR Newletter](https://tldr.tech/)
