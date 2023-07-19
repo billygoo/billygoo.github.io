@@ -34,3 +34,12 @@ tags: [newletter, tech-news]
 [WIX를 활용하면 AI 프롬프트만으로 전체 웹사이트 구축이 가능](https://www.theverge.com/2023/7/17/23796600/wix-ai-generated-websites-chatgpt){:target="_blank"}
 : WIX에서 제공하는 AI 서비스를 통해 웹사이트를 뚝딱 만들수 있다는 기사
 {% include embed/youtube.html id='-72sIsC1qTU' %}
+
+[컨테이너와 쿠버네티스의 네트워크 구조](https://docs.google.com/presentation/d/1N7qaDYtl8hLFSVL6rL4Yni8bUVdfJ8wj8_9rgOoFPp4/edit?usp=sharing){:target="_blank"}
+: `Yoo Youngsoo`님이 웹상에 공유해주신 공부자료로 네트워크 구조를 조금 더 깊이 있게 이해할 수 있다. 
+- 기존 Docker부터 Kubernetes가 네트워크를 구성하는 방법 
+- Kubernetes Service를 이용해 통신하는 방법 
+- CNI(Container Network Interface) : 가상 네트워크 환경을 구성하기 위한 인터페이스
+- 대표적인 CNI 플러그인 소개 
+- CNI 플러그인별 동작 방식 : Calico, cilium, Weave Net 
+- 각 플러그인별 네트워크 모니터링 방식 : 주로 Prometheus + Grafana 조합 활용 
