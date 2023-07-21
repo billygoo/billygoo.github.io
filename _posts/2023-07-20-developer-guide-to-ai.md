@@ -21,7 +21,7 @@ tags: [ai, llm, github, copilot, chat-gpt]
     - 글을 읽은 후 : LLM이 최대한 정답에 가까운 응답을 할 수 있도록 정보를 구성하는 것 
 
 ## WIKI 백과에선 뭐라고 하지? 
-> 프롬프트 엔지니어링 ( Prompt Engineering ) 은 인공지능의 한 개념으로 특히 자연어 처리 부분에 해당된다. 주요 업무는 인공지능의 역량을 발휘하도록 120%지시어를 적합하게 내려주는 것이다. ([WIKI](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81))
+> 프롬프트 엔지니어링 ( Prompt Engineering ) 은 인공지능의 한 개념으로 특히 자연어 처리 부분에 해당된다. 주요 업무는 인공지능의 역량을 발휘하도록 120%지시어를 적합하게 내려주는 것이다. ([WIKI](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81){:target="_blank"})
 
 ## 그럼 Github Copilot에서는 어떻게 Prompt Engineering을 구성했을까? 
 ![process to using LLMs](/assets/img/post/20230720/inside-how-llms-work.webp){: width="600" }
