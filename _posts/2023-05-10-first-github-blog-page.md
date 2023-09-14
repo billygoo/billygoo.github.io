@@ -1,5 +1,5 @@
 ---
-title: Theme 변경 후 첫 블로그 글 개시
+title: Jekyll Markup 참고 문법
 author: billy_goo
 date: 2023-05-10 10:03:00 +0900
 categories: [Blogging, Example]
