@@ -1,6 +1,6 @@
 ---
 title: LLM과 Prompt Engineering
-categories: [Tech, ChatGPT]
+categories: [Tech, AI]
 tags: [ai, llm, github, copilot, chat-gpt]
 ---
 
