@@ -35,7 +35,7 @@ docker desktop에서 가상 리눅스 VM을 실행하고, docker 명령어는 �
 ## 어떻게 쓸까? 
 단순하다. `brew`를 이용해 설치하고 VM을 실행 후 docker 명령어를 바로 실행하면 된다. 
 
-"""bash
+```bash
 $ brew install docker
 $ brew install colima 
 
@@ -53,7 +53,8 @@ INFO[0109] done
 
 $ docker ps
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
-"""
+
+```
 
 ## Apple Silicon에서 Docker 사용 조합들 
 
